@@ -40,7 +40,6 @@
     <ItemGroup>
         <Compile Include="Cooler.cs" />
         <Compile Include="Heater.cs" />
-        <Compile Include="lap6.csproj" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
         <Compile Include="Thermostat.cs" />
